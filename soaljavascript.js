@@ -1,6 +1,6 @@
 function FirstFactorial(num){
 
-	return num
+	console.log(num);
 
 }
 
