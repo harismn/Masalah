@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Belajar 56</title>
+    <title>Belajar 100</title>
   </head>
   <body>W
 
