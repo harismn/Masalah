@@ -7,6 +7,7 @@
   <body>
 
   <h1>Makan banyak pasti pintar</h1>
+  <h1>Makan banyak pasti pintar</h1>
 
   </body>
 </html>
