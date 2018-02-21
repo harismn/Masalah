@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Belajar</title>
+    <title>Belajar 2</title>
   </head>
   <body>
 
